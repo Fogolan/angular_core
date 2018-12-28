@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "Тестовое приложение",
+  "About": "О программе",
+  "Hello world !": "Привет мир!",
+  "Home": "Главная",
+  "Logged in as": "Вы вошли как",
+  "Login": "Вход",
+  "Logout": "Выход",
+  "Password": "Пароль",
+  "Password is required": "Пароль обязателен",
+  "Username": "Имя пользователя",
+  "Username is required": "Имя пользователя обязательно",
+  "Username or password incorrect.": "Неверно имя пользователя или пароль",
+  "Remember me": "Запомнить меня",
+  "Version": "Версия"
+}
